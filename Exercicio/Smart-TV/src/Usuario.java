@@ -3,7 +3,7 @@ public class Usuario {
 
         SmartTv smartTv = new SmartTv();
 
-        smartTv.diminuirVolume();
+        smartTv.diminuirVolume();P
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
         smartTv.aumentarVolume();
